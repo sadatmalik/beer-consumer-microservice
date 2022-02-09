@@ -9,10 +9,10 @@
 	</parent>
 
 	<groupId>com.sadatmalik</groupId>
-	<artifactId>beer-consumer</artifactId>
+	<artifactId>ms-beer-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>beer-consumer</name>
+	<name>ms-beer-service</name>
 
 	<description>Demo Micro-service Client for Spring Boot</description>
 
