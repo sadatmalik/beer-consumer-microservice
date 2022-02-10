@@ -2,10 +2,10 @@ package com.sadatmalik.beerconsumer.services.brewing;
 
 import com.sadatmalik.beerconsumer.config.JmsConfig;
 import com.sadatmalik.beerconsumer.domain.Beer;
-import com.sadatmalik.beerconsumer.events.BrewBeerEvent;
 import com.sadatmalik.beerconsumer.repositories.BeerRepository;
 import com.sadatmalik.beerconsumer.services.BeerInventoryService;
 import com.sadatmalik.beerconsumer.web.mappers.BeerMapper;
+import com.sadatmalik.common.events.BrewBeerEvent;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jms.core.JmsTemplate;

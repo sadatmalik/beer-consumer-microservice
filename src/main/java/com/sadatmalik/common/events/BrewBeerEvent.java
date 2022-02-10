@@ -1,4 +1,4 @@
-package com.sadatmalik.beerconsumer.events;
+package com.sadatmalik.common.events;
 
 import com.sadatmalik.beerconsumer.web.model.BeerDto;
 import lombok.NoArgsConstructor;
