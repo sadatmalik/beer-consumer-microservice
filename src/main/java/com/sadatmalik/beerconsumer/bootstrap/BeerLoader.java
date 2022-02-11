@@ -2,7 +2,7 @@ package com.sadatmalik.beerconsumer.bootstrap;
 
 import com.sadatmalik.beerconsumer.domain.Beer;
 import com.sadatmalik.beerconsumer.repositories.BeerRepository;
-import com.sadatmalik.beerconsumer.web.model.BeerStyleEnum;
+import com.sadatmalik.brewery.model.BeerStyleEnum;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

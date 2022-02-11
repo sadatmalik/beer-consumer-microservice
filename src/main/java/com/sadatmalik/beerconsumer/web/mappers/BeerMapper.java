@@ -1,7 +1,7 @@
 package com.sadatmalik.beerconsumer.web.mappers;
 
 import com.sadatmalik.beerconsumer.domain.Beer;
-import com.sadatmalik.beerconsumer.web.model.BeerDto;
+import com.sadatmalik.brewery.model.BeerDto;
 import org.mapstruct.DecoratedWith;
 import org.mapstruct.Mapper;
 

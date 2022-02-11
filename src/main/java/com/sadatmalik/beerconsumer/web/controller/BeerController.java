@@ -1,9 +1,9 @@
 package com.sadatmalik.beerconsumer.web.controller;
 
 import com.sadatmalik.beerconsumer.services.BeerService;
-import com.sadatmalik.beerconsumer.web.model.BeerDto;
-import com.sadatmalik.beerconsumer.web.model.BeerPagedList;
-import com.sadatmalik.beerconsumer.web.model.BeerStyleEnum;
+import com.sadatmalik.brewery.model.BeerDto;
+import com.sadatmalik.brewery.model.BeerPagedList;
+import com.sadatmalik.brewery.model.BeerStyleEnum;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package com.sadatmalik.beerconsumer.web.model;
+package com.sadatmalik.brewery.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.sun.istack.NotNull;

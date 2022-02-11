@@ -1,7 +1,7 @@
 package com.sadatmalik.beerconsumer.repositories;
 
 import com.sadatmalik.beerconsumer.domain.Beer;
-import com.sadatmalik.beerconsumer.web.model.BeerStyleEnum;
+import com.sadatmalik.brewery.model.BeerStyleEnum;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

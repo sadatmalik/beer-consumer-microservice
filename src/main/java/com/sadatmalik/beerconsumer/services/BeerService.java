@@ -1,8 +1,8 @@
 package com.sadatmalik.beerconsumer.services;
 
-import com.sadatmalik.beerconsumer.web.model.BeerDto;
-import com.sadatmalik.beerconsumer.web.model.BeerPagedList;
-import com.sadatmalik.beerconsumer.web.model.BeerStyleEnum;
+import com.sadatmalik.brewery.model.BeerDto;
+import com.sadatmalik.brewery.model.BeerPagedList;
+import com.sadatmalik.brewery.model.BeerStyleEnum;
 import org.springframework.data.domain.PageRequest;
 
 import java.util.UUID;

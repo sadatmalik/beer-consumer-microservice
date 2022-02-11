@@ -1,6 +1,6 @@
-package com.sadatmalik.common.events;
+package com.sadatmalik.brewery.model.events;
 
-import com.sadatmalik.beerconsumer.web.model.BeerDto;
+import com.sadatmalik.brewery.model.BeerDto;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
