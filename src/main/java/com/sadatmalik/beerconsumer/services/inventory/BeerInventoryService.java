@@ -1,4 +1,4 @@
-package com.sadatmalik.beerconsumer.services;
+package com.sadatmalik.beerconsumer.services.inventory;
 
 import java.util.UUID;
 

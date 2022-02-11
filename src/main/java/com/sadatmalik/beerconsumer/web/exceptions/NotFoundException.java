@@ -1,4 +1,4 @@
-package com.sadatmalik.beerconsumer.exceptions;
+package com.sadatmalik.beerconsumer.web.exceptions;
 
 public class NotFoundException extends RuntimeException {
 }

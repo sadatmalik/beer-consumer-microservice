@@ -1,4 +1,4 @@
-package com.sadatmalik.beerconsumer.services;
+package com.sadatmalik.beerconsumer.services.inventory;
 
 import com.sadatmalik.beerconsumer.services.inventory.model.BeerInventoryDto;
 import lombok.extern.slf4j.Slf4j;

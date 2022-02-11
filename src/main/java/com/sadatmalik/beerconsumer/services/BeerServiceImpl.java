@@ -1,8 +1,8 @@
 package com.sadatmalik.beerconsumer.services;
 
 import com.sadatmalik.beerconsumer.domain.Beer;
-import com.sadatmalik.beerconsumer.exceptions.NotFoundException;
 import com.sadatmalik.beerconsumer.repositories.BeerRepository;
+import com.sadatmalik.beerconsumer.web.exceptions.NotFoundException;
 import com.sadatmalik.beerconsumer.web.mappers.BeerMapper;
 import com.sadatmalik.brewery.model.BeerDto;
 import com.sadatmalik.brewery.model.BeerPagedList;
@@ -65,6 +65,7 @@ public class BeerServiceImpl implements BeerService {
                                     beerPage.getPageable().getPageSize()),
                     beerPage.getTotalElements());
         }
+
         return beerPagedList;
     }
 

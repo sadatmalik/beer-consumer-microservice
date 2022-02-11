@@ -3,7 +3,7 @@ package com.sadatmalik.beerconsumer.services.brewing;
 import com.sadatmalik.beerconsumer.config.JmsConfig;
 import com.sadatmalik.beerconsumer.domain.Beer;
 import com.sadatmalik.beerconsumer.repositories.BeerRepository;
-import com.sadatmalik.beerconsumer.services.BeerInventoryService;
+import com.sadatmalik.beerconsumer.services.inventory.BeerInventoryService;
 import com.sadatmalik.beerconsumer.web.mappers.BeerMapper;
 import com.sadatmalik.brewery.model.events.BrewBeerEvent;
 import lombok.RequiredArgsConstructor;

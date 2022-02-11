@@ -1,7 +1,7 @@
 package com.sadatmalik.beerconsumer.web.mappers;
 
 import com.sadatmalik.beerconsumer.domain.Beer;
-import com.sadatmalik.beerconsumer.services.BeerInventoryService;
+import com.sadatmalik.beerconsumer.services.inventory.BeerInventoryService;
 import com.sadatmalik.brewery.model.BeerDto;
 import org.springframework.beans.factory.annotation.Autowired;
 
