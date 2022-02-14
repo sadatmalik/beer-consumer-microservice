@@ -1,7 +1,6 @@
-package com.sadatmalik.beerconsumer.services.inventory.model;
+package com.sadatmalik.beerconsumer.services.inventory;
 
-import com.sadatmalik.beerconsumer.services.inventory.BeerInventoryService;
-import com.sadatmalik.beerconsumer.services.inventory.InventoryServiceFeignClient;
+import com.sadatmalik.beerconsumer.services.inventory.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Profile;
